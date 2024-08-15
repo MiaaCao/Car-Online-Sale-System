@@ -1,0 +1,19 @@
+/* Manage.PHP */
+.addcar_content {
+    margin: 20px;
+}
+
+.addcarLink {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.addcar_button {
+    width: 100%; 
+    max-width: 150px; 
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
